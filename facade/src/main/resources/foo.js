@@ -1,0 +1,1 @@
+exports.bar = function (i, str) { return i(str) };
