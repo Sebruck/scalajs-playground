@@ -1,2 +1,2 @@
-#scalajs-test
+#scalajs-playground
 Making Javascript great again!
